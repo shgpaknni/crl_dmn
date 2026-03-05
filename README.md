@@ -1,6 +1,6 @@
 # crl_dmn
 
-Windows-friendly BFS domain crawler + ranker.
+BFS domain crawler + ranker.
 
 ## Exact flow implemented
 For one crawl session:
